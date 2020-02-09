@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Map-Compass-Board-Game-CF)](https://repl.it/github/athenian-ct-projects/Map-Compass-Board-Game-CF)
+
 # Assignment Description
 
 This is a board game with a computer component.
